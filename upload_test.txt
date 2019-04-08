@@ -1,0 +1,2 @@
+{"visible":[{"culog":{"idx":0,"rank_score":0.2},"id":230805110082048,"type":"scoreboard"},{"culog":{"idx":0,"rank_score":0.2},"id":230740117113344,"type":"player_rankings"}]}
+{"visible":[{"culog":{"idx":0,"rank_score":0.2},"id":230805110082048,"type":"scoreboard"},{"culog":{"idx":0,"rank_score":0.2},"id":230740117113344,"type":"player_rankings"}]}
